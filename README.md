@@ -2,6 +2,7 @@
 
 ### Basic Git commands
 * 'git init' - Initialize Git in working directory
+* 'git status' - shows status of current branch
 * 'git add .' - Stage (add to Git index) all changed files in current directory
 * 'git commit -m "message"' - commit staged files to local repo
 * 'git log' - show commit history
