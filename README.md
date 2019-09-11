@@ -7,4 +7,6 @@
 
 ### Basic Branching
 * 'git branch "title of new branch"' - Creates new branch
-*  
+* 'git checkout "name of branch"' - Changes branch to "name of branch"
+
+Joe
