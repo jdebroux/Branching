@@ -6,6 +6,6 @@
 * 'git commit -m "message"' - commit staged files to local repo
 
 ### Basic Branching
+* 'git branch' - Display all branches, show current
 * 'git branch "title of new branch"' - Creates new branch
 * 'git checkout "name of branch"' - Changes branch to "name of branch"
-* 
