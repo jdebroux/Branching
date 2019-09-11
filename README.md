@@ -10,3 +10,4 @@
 ### Basic Branching
 * 'git branch "title of new branch"' - Creates new branch
 * 'git checkout "name of branch"' - Changes branch to "name of branch"
+* 'git checkout -b "branch name"' - creates "branch name" and moves into "branch name"
